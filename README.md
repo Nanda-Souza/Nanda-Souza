@@ -16,7 +16,7 @@
 
 - 🎨 I also like to create digital arts using Pothoshop and Adobe Illustrator.
 
-- 🌸 In my free I like to read mangás, watch anime and doramas.
+- 🌸 In my free time I like to read mangás, watch anime and doramas.
 
 - ✉️ Contact me: fesouoli@gmail.com
 
