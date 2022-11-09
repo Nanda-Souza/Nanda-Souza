@@ -14,9 +14,9 @@
 
 - 📖 I'm currently a Full Stack student at Driven and I'm studying Computing at the UniRitter in Porto Alegre. <br>
 
-- 🎨 I also like to create digital arts using Pothoshop and Adobe Illustrator.
+- 🎨 I also like to create digital arts using Photoshop and Adobe Illustrator.
 
-- 🌸 In my free time I like to read mangás, watch anime and doramas.
+- 🌸 In my free time I like to read mangás, watch animes and doramas.
 
 - ✉️ Contact me: fesouoli@gmail.com
 
