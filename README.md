@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>Fernanda Souza Oliveira</h1>
-  <h3> ✨ Developer Student Full Stack , Brazil 🌎</h3><br>
+  <h3> ✨ Developer Full Stack , Brazil 🌎</h3><br>
 </div>
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Nanda-Souza&count_private=true&show_icons=true" alt="My github stats">
